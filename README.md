@@ -15,7 +15,7 @@ Jeg heter **Radi Halabi**, og jeg er en nyutdannet bachelor i informatikk med sp
 
 ---
 
-## 🚀 Prosjekter jeg har jobbet med
+## 🚀 Prosjekter jeg har jobbet/jobber med
 - **[Radio Nova Webplattform](https://radionova.no):** En helhetlig webplattform for radioprogrammer og medlemsadministrasjon.
 - **Habit App:** En app som motiverer brukere til å oppnå daglige mål ved hjelp av et poengsystem.
 - **Hausmania Kulturhus:** Design og utvikling av en nettside for å fremvise artister og arrangementer.
@@ -23,7 +23,7 @@ Jeg heter **Radi Halabi**, og jeg er en nyutdannet bachelor i informatikk med sp
 
 ---
 
-## 🌟 Hva er mine verdier?
+## 🌟 Hva motiverer meg?
 Jeg er dedikert til å lage innovative og effektive løsninger som er skalerbare og brukervennlige. Fra å feilsøke komplekse systemer til å bygge moderne applikasjoner, strever jeg alltid etter å levere arbeid av høy kvalitet.
 
 ---

@@ -29,17 +29,3 @@ Besøk nettsiden min her: **[radi410.github.io](https://radi410.github.io)**
 
 - **Radio Nova Webplattform**: Modernisering av nettsiden for Radio Nova med Django og Wagtail.  
   *Teknologier*: Docker, PostgreSQL, Git.
-
----
-
-## 🌟 Hvorfor velge meg?
-Jeg brenner for å lage innovative og brukervennlige løsninger som kombinerer funksjonalitet og skalerbarhet. Uansett om det gjelder feilsøking av komplekse systemer eller utvikling av moderne applikasjoner, er jeg alltid klar for å levere kvalitet.
-
----
-
-## 📫 Ta kontakt med meg
-- 🌐 **Nettside**: [radi410.github.io](https://radi410.github.io)
-- 📧 **E-post**: radi@radionova.com
-- 💼 **LinkedIn**: [Radi Halabi](https://www.linkedin.com/in/radi-halabi-4421011ba/)
-
-Takk for at du besøkte profilen min!

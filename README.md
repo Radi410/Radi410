@@ -25,7 +25,7 @@ Besøk nettsiden min her: **[radi410.github.io](https://radi410.github.io)**
   *Teknologier*: React Native, Firebase.
 
 - **Voting Lamas Politics**: En politisk simulator som lar brukere utforske stemmesystemer og politiske scenarier.  
-  *Teknologier*: Kotlin, Firebase, Git.
+  *Teknologier*: Kotlin, Git.
 
 - **Radio Nova Webplattform**: Modernisering av nettsiden for Radio Nova med Django og Wagtail.  
   *Teknologier*: Docker, PostgreSQL, Git.

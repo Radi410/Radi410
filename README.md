@@ -11,7 +11,7 @@ Besøk nettsiden min her: **[radi410.github.io](https://radi410.github.io)**
 
 ## 💻 Om meg
 - 🎓 **Utdanning**: Bachelor i Informatikk, Universitetet i Oslo (2021–2024)
-- 🛠️ **Jobb**: Driftsutvikler hos Radio Nova
+- 🛠️ **Jobb**: utvikler hos Radio Nova
 - 🚀 **Erfaring**: Webutvikling, systemadministrasjon, og sikkerhet
 - 🌱 **Teknologier**:
   - **Programmering**: Python, JavaScript, Java, Kotlin

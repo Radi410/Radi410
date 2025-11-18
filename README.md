@@ -21,10 +21,6 @@ Besøk nettsiden min her: **[radi410.github.io](https://radi410.github.io)**
 ---
 
 ## 🚀 Prosjekter jeg jobber med
-- **Radionova.no**: Nyutviklet nettside med Django og Wagtail, containerisert med Docker og driftet i Azure
-
-- **Voting Lamas Politics**: En politisk simulator som lar brukere utforske stemmesystemer og politiske scenarier.  
-  *Teknologier*: Kotlin, Git.
 
 - **On-prem Server** Fred: Utvikler en ny on-prem løsning for lagring av repriser til DIGAS og håndtering av kanalbytter. Prosjektet erstatter den gamle Fred-serveren, som er ustabil og ofte restarter, med en moderne og driftssikker løsning.
 *Teknologier*: Linux, PostgreSQL, Bash, automatisering.

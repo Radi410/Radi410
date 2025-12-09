@@ -22,5 +22,5 @@ Jeg heter **Radi Halabi**, en lidenskapelig utvikler med en bachelor i informati
 
 ##  Prosjekter jeg jobber med
 
-- **On-prem Server** Fred: Utvikler en ny on-prem løsning for lagring av repriser til DIGAS og håndtering av kanalbytter. Prosjektet erstatter den gamle Fred-serveren, som er ustabil og ofte restarter, med en moderne og driftssikker løsning.
+- **On-prem Server** Idar: Utvikler en ny on-prem løsning for lagring av repriser til DIGAS og håndtering av kanalbytter. Prosjektet erstatter den gamle Fred-serveren, som er ustabil og ofte restarter, med en moderne og driftssikker løsning.
 *Teknologier*: Linux, PostgreSQL, Bash, automatisering.

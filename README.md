@@ -14,6 +14,6 @@ Jeg heter **Radi Halabi**, en lidenskapelig utvikler med en bachelor i informati
 -  **Erfaring**: Infrastruktur som kode (IaC), systemadministrasjon og sikkerhet
   - **Programmering**: Python, JavaScript, Kotlin/Java
   - **Verktøy**: Docker, Git, Azure, PostgreSQL
-  - **Frameworks**: React, Django, Wagtail
+  - **Frameworks**: React, Django
 
 
